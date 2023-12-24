@@ -36,8 +36,3 @@
 <a href="https://www.hackerrank.com/profile/elite9145build" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lambu_here" height="30" width="40" /></a>
 <a href="https://leetcode.com/elite9145build/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="syed fasih" height="30" width="40" /></a>
 </p>
-
-### Badges
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Lambu-here"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Lambu-here&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>

@@ -26,7 +26,7 @@
 
 ### Connect with me:
 <p align="left">
-<a href="https://www.linkedin.com/in/syed-f-523803258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed fasih" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-muhammad-fasih/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed fasih" height="30" width="40" /></a>
 <a href="https://www.facebook.com/people/Syed-Fasih/pfbid0kn5NrwmFU2EWRkw5ri3zEiP8mUBefRQbCVG1gqP4CGsritmUjRrHm5Dh4JhEM38pl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="syed fasih" height="30" width="40" /></a>
 <a href="https://instagram.com/lambu_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lambu_here" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@lambu_here6009" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lambu_here" height="30" width="40" /></a>

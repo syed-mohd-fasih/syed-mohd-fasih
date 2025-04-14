@@ -5,10 +5,10 @@
 
 * 🌍  I'm based in Kuwait
 * ✉️  You can contact me at [syedfaseeh374@gmail.com](mailto:syedfaseeh374@gmail.com) 👀
-* 🚀  I'm currently working on Game Development 🕹️ and my Portfolio Website 🥺
-* 🧠  I'm learning Web/App Development, Java, C#, and .NET (Blazor)... 😋
+* 🚀  I'm currently working on Web and App Development 😋
+* 🧠  I currently work with C# (.NET), ReactJS, NextJS, and many more cool frameworks 😎 
 * 🤝  I'm open to collaborating on C/C++/C# based projects!
-* ⚡  Fun fact => I game more than I code 😁
+* ⚡  Fun fact => I'm more fun than my code 😁
 
 ### Skills & Tools
 <p align="left">

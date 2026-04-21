@@ -2,15 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Syed%20Muhammad%20Fasih&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=36&desc=CS%20Student%20%7C%20Developer%20%7C%20Lifelong%20Learner&descAlignY=58&descSize=17" width="100%"/>
 </div>
 
-```
-███████╗ █████╗ ███████╗██╗██╗  ██╗
-██╔════╝██╔══██╗██╔════╝██║██║  ██║
-█████╗  ███████║███████╗██║███████║
-██╔══╝  ██╔══██║╚════██║██║██╔══██║
-██║     ██║  ██║███████║██║██║  ██║
-╚═╝     ╚═╝  ╚═╝╚══════╝╚═╝╚═╝  ╚═╝
-```
-
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=C%2FC%2B%2B%2FC%23+Developer+%F0%9F%92%BB;Web+%26+App+Builder+%F0%9F%9A%80;Passionate+Programmer+%F0%9F%94%A5;Always+Learning+Something+New+%F0%9F%A7%A0)](https://git.io/typing-svg)
